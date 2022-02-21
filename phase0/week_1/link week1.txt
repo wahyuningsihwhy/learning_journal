@@ -1,0 +1,61 @@
+LINK 
+dokumen record :
+https://docs.google.com/spreadsheets/d/1iN9v2srYKOYcvM4UEh4z-fu2FxOgiOOiYz-9YOjxA4M/edit?usp=sharing
+
+https://classroom.github.com/a/RHz4ctYv
+
+1. GC 1 : 
+    * Deadline : Rabu, 23 Februari 2022 pukul 23:00 WIB
+    * URL : https://classroom.github.com/a/RWx_T6_P
+
+2. GC 2
+    * Deadline : Rabu, 2 Maret 2022 pukul 23:00 WIB
+    * URL : https://classroom.github.com/a/HF3vTsYC
+
+3. GC 3
+    * Deadline : Rabu, 9 Maret 2022 pukul 23:00 WIB
+    * URL : https://classroom.github.com/a/B205u0hU
+
+4. Milestone 1 
+    * Deadline : Kamis, 10 Maret 2022 pukul 23:00 WIB
+    * URL : https://classroom.github.com/a/84CzGBqu\
+
+Day 3 Mentoring 
+https://colab.research.google.com/drive/193WbwrRbeUIgULe5v5JN9CZG1Fvh5wPZ#scrollTo=rwWRzLQJToHe
+https://www.w3resource.com/python-exercises/python-conditional-statements-and-loop-exercises.php
+https://www.w3resource.com/python-exercises/python-conditional-statements-and-loop-exercises.php
+https://colab.research.google.com/drive/193WbwrRbeUIgULe5v5JN9CZG1Fvh5wPZ
+
+
+
+Day 4 (Rafif a)
+https://www.kaggle.com/yasserh/student-marks-dataset
+https://www.kaggle.com/yasserh/student-marks-dataset
+https://raw.githubusercontent.com/ardhiraka/PFDS_sources/master/nbaallelo.csv
+
+Day 5 (Fahmi Iman Alfarizki)
+https://raw.githubusercontent.com/ardhiraka/PFDS_sources/master/property_data.csv
+df = pd.read_csv('https://raw.githubusercontent.com/ardhiraka/PFDS_sources/master/property_data.csv')
+contoh : 
+for baris in df['ST_NAME']:
+  try:
+    int(baris)
+    print('Data Angka')
+  except:
+    print('Bukan Data Angka')
+
+(Belita pratiwi)
+https://drive.google.com/file/d/19WCRz6O9M_L8yW-wEskW7G6-WTFd9Dm3/view?usp=sharing
+
+
+komen :
+mas saya .plotnya kok error ya?
+%matplotlib inline
+
+Live Code :
+URL Live Code 1 - Phase 1 - FTDS-008 : https://classroom.github.com/a/hFaj19C0
+URL Live Code 1 - Phase 0 - FTDS-009 : https://classroom.github.com/a/utvtM-3r
+https://classroom.github.com/a/utvtM-3r
+https://github.com/H8-Assignments-Bay/p0---ftds009---lc1-wahyuningsihwhy
+
+
